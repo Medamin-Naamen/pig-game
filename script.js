@@ -94,5 +94,5 @@ btnHold.addEventListener('click', function () {
     }
   }
 });
-
+console.log('yeeeh yeeh');
 btnNew.addEventListener('click', init);
